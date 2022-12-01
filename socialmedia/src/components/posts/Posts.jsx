@@ -2,7 +2,6 @@ import Post from "../post/Post";
 import "./posts.scss";
 
 const Posts = () => {
-  //TEMPORARY
   const posts = [
     {
       id: 1,
