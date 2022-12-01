@@ -8,7 +8,6 @@ export const AuthContextProvider = ({ children }) => {
   );
 
   const login = () => {
-    //TO DO
     setCurrentUser({
       id: 1,
       name: "YALIM Gürbüz",
